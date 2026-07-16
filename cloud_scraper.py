@@ -19,7 +19,7 @@ def get_file_id(url):
 
 def run_app():
     print("="*52)
-    print("☠️ WELCOME TO THE CLOUD-AI SCRAPER By:MeanNugget1 ☠️")
+    print("☠️ WELCOME TO THE CLOUD-AI SCRAPER By:ALT ☠️")
     print("="*52)
 
     raw_url = input("\nPaste the Google Drive Link: ")
